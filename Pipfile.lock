@@ -340,7 +340,7 @@
         "jupyterhub-singleuser-profiles": {
             "editable": true,
             "git": "https://github.com/crobby/jupyterhub-singleuser-profiles.git",
-            "ref": "37903c3cddacc1b66814f4bb58c6cbc521b7d6bb"
+            "ref": "6c9d6e46d8a03f71acb10ed462c8597b20cfcaf4"
         },
         "kubernetes": {
             "hashes": [
